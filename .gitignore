@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# PlatformIO
+PPMSlaveIO/.pio/
+
+# Docs
+goals.md
+
+# Claude Code
+.claude/
+
+# Arduino
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
